@@ -11,7 +11,7 @@ language: en
 medium: video
 permalink: /why-open-education-matters/
 blurb: Animated introduction to open educational resources.
-downloadurl: https://archive.org/details/WhyOpenEducationMatters
+downloadurl: https://archive.org/download/WhyOpenEducationMatters/Why%2BOpen%2BEducation%2BMatters-HD.mp4
 embed: <iframe src="https://archive.org/embed/WhyOpenEducationMatters" width="640" height="360" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 author: Blink Tower
 license: CC BY-SA 3.0
